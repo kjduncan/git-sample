@@ -1,8 +1,8 @@
 # git-sample
 [google](http://google.com)
 
-*Bullet
-*point
-*lists
+* Bullet
+* point
+* lists
 
 ###Sub Header
